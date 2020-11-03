@@ -6,8 +6,8 @@ This public repository is intended to keep track of bugs and issues for the RT a
 <a href="https://github.com/jensbouma/RT-issuetracker/issues" target="_blank">Here</a> you can find the know issues.<br>
 Submit new issues about the beta version <a href="https://github.com/jensbouma/RT-issuetracker/issues/new" target="_blank">here</a>.
 
-The old version can be found on https://rt.knvvl.nl<br>.
-The newer beta version can be found on https://dev.jensbouma.com/beta<br>.
+The old version can be found on https://rt.knvvl.nl.<br>
+The newer beta version can be found on https://dev.jensbouma.com/beta.<br>.
 
 # New in the beta version (03-11-2020):
 Transponder:
