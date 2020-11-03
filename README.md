@@ -38,5 +38,5 @@ Functionality:
 - Add online/offline status to database (with write to db on shutdown)
 - Pop-up instructions what to do, when user blocked audio permission.
 
-Trainer Pannel:
+Trainer Panel (/trainer):
 - Added user status in trainer pannel (buggy: offline status doesn't work yet with disconnecting users on iOS devices)
