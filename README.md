@@ -12,14 +12,14 @@ The beta version can be fount on https://dev.jensbouma.com/beta
 
 # New in the beta version (03-11-2020:
 Transponder:
-- Squawk code input is optimalised, its now only posible to enter 0000 to 7777
-- A Squawk input of 17 for example automaticly turns into 0017
+- Squawk code input is optimised, its now only possible to enter 0000 to 7777
+- A Squawk input of 17 for example automatically turns into 0017
 - Transponder turns 'off' with a input value of '-1'
 
 Radio:
-- Microphone levelmeter microphone (No funtional yet)
-- A key can be assined to the PTT button by holding down the key and simultaneously pressing the PTT button with the mouse.
-- Freqency input is optimalised. 1225 for example automaticly turns into 122.500
+- Microphone level meter microphone (No functional yet)
+- A key can be assigned to the PTT button by holding down the key and simultaneously pressing the PTT button with the mouse.
+- Frequency input is optimised. 1225 for example automatically turns into 122.500
 
 Chat:
 - RX/TX data communication is implemented (no audio carrier yet)
@@ -29,11 +29,11 @@ Chat:
 Functionality:
 - Cookie is now a unique hash
 - Cookie version for safe upgrading to newer versions
-- DB hash as unique ID and JS optimalisation
+- DB hash as unique ID and JS optimisation
 - Implementation of JSON instead of XML
 - Removed XML for UserLoad
 - WebKit Audio API Optimalisation
-- Major JavaScript code cleanup and written to seperate modules
+- Major JavaScript code cleanup and written to separate modules
 - Add online/offline status to database (with write to db on shutdown)
 - Pop-up instructions what to do, when user blocked audio permission.
 
