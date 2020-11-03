@@ -1,6 +1,7 @@
 # RT Training App Beta
 
-This public repository is to keep track of bugs and issues for the RT app.
+This public repository is intended to keep track of bugs and issues for the RT app.
+'Watch' this repository to get updated when something is changing.
 
 <a href="https://github.com/jensbouma/RT-issuetracker/issues" target="_blank">Here</a> you can find the know issues.
 Add new issues of the beta version <a href="https://github.com/jensbouma/RT-issuetracker/issues/new" target="_blank">here</a>
