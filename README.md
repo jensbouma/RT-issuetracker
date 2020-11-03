@@ -30,7 +30,7 @@ Chat:
 Functionality:
 - Cookie is now a unique hash
 - Cookie version for safe upgrading to newer versions
-- DB hash as unique ID and JS optimisation
+- DB: security added, hash as unique ID and JS optimisation
 - Implementation of JSON instead of XML
 - Removed XML for UserLoad
 - WebKit Audio API Optimalisation
