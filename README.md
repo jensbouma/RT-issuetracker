@@ -2,6 +2,8 @@
 
 This public repository is to keep track of bugs and issues for the RT app.
 
+Add issues <a href="https://github.com/jensbouma/RT-issuetracker/issues/new">Here</a>
+
 The main version can be found on https://rt.knvvl.nl
 The beta version can be fount on https://dev.jensbouma.com/beta
 
