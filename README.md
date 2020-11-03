@@ -5,7 +5,7 @@ This public repository is to keep track of bugs and issues for the RT app.
 The main version can be found on https://rt.knvvl.nl
 The beta version can be fount on https://dev.jensbouma.com/beta
 
-# New in the beta version:
+# New in the beta version (03-11-2020:
 Transponder:
 - Squawk code input is optimalised, its now only posible to enter 0000 to 7777
 - A Squawk input of 17 for example automaticly turns into 0017
