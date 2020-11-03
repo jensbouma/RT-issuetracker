@@ -23,7 +23,8 @@ Radio:
 
 Chat:
 - RX/TX data communication is implemented (no audio carrier yet)
-- SFX added to simulate PTT press and release.
+- SFX added to simulate PTT press and release
+- List of actual users connected to
 - Radio shows User Name of transmitter (not sure this is a wanted feature in the student panel)
 
 Functionality:
