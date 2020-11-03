@@ -10,7 +10,7 @@ Add new issues of the beta version <a href="https://github.com/jensbouma/RT-issu
 The old version can be found on https://rt.knvvl.nl<br>
 The newer beta version can be found on https://dev.jensbouma.com/beta<br>
 
-# New in the beta version (03-11-2020:
+# New in the beta version (03-11-2020):
 Transponder:
 - Squawk code input is optimised, its now only possible to enter 0000 to 7777
 - A Squawk input of 17 for example automatically turns into 0017
