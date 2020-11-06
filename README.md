@@ -9,6 +9,13 @@ Submit new issues about the beta version <a href="https://github.com/jensbouma/R
 The old version can be found on https://rt.knvvl.nl.<br>
 The newer beta version can be found on https://dev.jensbouma.com/beta.<br>
 
+
+# 06-11-2020
+- WebRTC data channel implemented (using public server)
+- Peer to Peer audio chat over WebRTC datachannel
+- WebRTC Statistics: chrome://webrtc-internals/
+- Tested in Chrome, iOS, Android (Chrome)
+
 # New in the beta version (03-11-2020):
 Transponder:
 - Squawk code input is optimised, its now only possible to enter 0000 to 7777
@@ -21,7 +28,7 @@ Radio:
 - Frequency input is optimised. 1225 for example automatically turns into 122.500
 
 Chat:
-- RX/TX data communication is implemented (no audio carrier yet)
+- RX/TX data communication is implemented
 - SFX added to simulate PTT press and release
 - List of actual users connected to
 - Radio shows User Name of transmitter (not sure this is a wanted feature in the student panel)
