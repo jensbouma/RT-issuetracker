@@ -8,9 +8,13 @@ Submit new issues about the beta version <a href="https://github.com/jensbouma/R
 
 The old version can be found on https://rt.knvvl.nl.<br>
 The newer beta version can be found on https://dev.jensbouma.com/beta.<br>
+# New in the beta version 16-11-2020
+- Moodle Connector
+- Group support (1 group per trainer, later also basegroup channel)
+- Integrated instructor panel with audio support
+- XML > JSON > Load instructor pannel (XML remove in later version)
 
-
-# New in the beta version 06-11-2020:
+# 06-11-2020:
 - WebRTC data channel implemented (using public server)
 - Peer to Peer audio chat over WebRTC datachannel
 - WebRTC Statistics: chrome://webrtc-internals/
