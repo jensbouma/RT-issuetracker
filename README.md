@@ -13,6 +13,7 @@ The newer beta version can be found on https://dev.jensbouma.com/beta.<br>
 - Group support (1 group per trainer, later also basegroup channel)
 - Integrated instructor panel with audio support
 - XML > JSON > Load instructor pannel (XML remove in later version)
+- Added more dynamics to hash for loading different user roles
 
 # 06-11-2020:
 - WebRTC data channel implemented (using public server)
