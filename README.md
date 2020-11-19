@@ -10,7 +10,7 @@ The old version can be found on https://rt.knvvl.nl.<br>
 The newer beta version can be found on https://dev.jensbouma.com/beta.<br>
 # Changes 19-11-2020
 - PTT button function, only releases on mouseup
-- PTT button got default selected after releasing another button to prevent frequency switching while transmitting
+- PTT button got default selected after releasing another button to prevent frequency switching while transmitting with key
 - Audio level meter has function now (not on ios yet)
 - Activate Mic text changed to Connect to Group
 
