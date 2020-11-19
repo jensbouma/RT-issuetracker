@@ -8,7 +8,13 @@ Submit new issues about the beta version <a href="https://github.com/jensbouma/R
 
 The old version can be found on https://rt.knvvl.nl.<br>
 The newer beta version can be found on https://dev.jensbouma.com/beta.<br>
-# New in the beta version 16-11-2020
+# Changes 19-11-2020
+- PTT button function, only releases on mouseup
+- PTT button got default selected after releasing another button to prevent frequency switching while transmitting
+- Audio level meter has function now (not on ios yet)
+- Activate Mic text changed to Connect to Group
+
+# 16-11-2020
 - Moodle Connector
 - Group support (1 group per trainer, later also basegroup channel)
 - Integrated instructor panel with audio support
