@@ -12,7 +12,7 @@ The newer beta version can be found on https://dev.jensbouma.com/beta.<br>
 - PTT button function, only releases on mouseup
 - PTT button got default selected after releasing another button to prevent frequency switching while transmitting with key
 - Audio level meter has function now (not on ios yet)
-- Activate Mic text changed to Connect to Group
+- Activate Mic text changed to Connect
 
 # 16-11-2020
 - Moodle Connector
