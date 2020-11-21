@@ -6,9 +6,24 @@ This public repository is intended to keep track of bugs and issues for the RT a
 <a href="https://github.com/jensbouma/RT-issuetracker/issues" target="_blank">Here</a> you can find know issues.<br>
 Submit new issues about the beta version <a href="https://github.com/jensbouma/RT-issuetracker/issues/new" target="_blank">here</a>.
 
-The old version can be found on https://rt.knvvl.nl.<br>
-The newer beta version can be found on https://dev.jensbouma.com/beta.<br>
-# Changes 19-11-2020
+The live version can be found on https://dev.jensbouma.com/beta.<br>
+The newer beta version can be found on https://dev.jensbouma.com/beta2.<br>
+
+# Changes 21-11-2020
+- RX status per user stays on while transmitting
+- Freq. and Squawk switch now stays highlighted longer
+- Rows can be cliked for useroptions: Temporaly hide user, Delete user from database and make a note attached to a user.
+- Datachannel now initalise directly on load instead after pressing connect button
+- Loading screen for nicer page load.
+- Trainerpannel doesnt use XML anymore, updates with Websocket data and first initalization direct form DB
+- User updates doesn't do a XML refresh, because its not needed anymore
+- PHP servertime added instead of XML time.
+- Bugfix: Freezing PTT button after clicking away userscreen.
+- Simpler code to make usertable in trainerpanel
+- A lowercase registration gets converted to upercase now.
+- When changeing te registration frequency, squawk and status doesn't get resetted anymore.
+
+# 19-11-2020
 - PTT button function, only releases on mouseup
 - PTT button got default selected after releasing another button to prevent frequency switching while transmitting with key
 - Audio level meter has function now
