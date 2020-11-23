@@ -9,7 +9,10 @@ Submit new issues about the beta version <a href="https://github.com/jensbouma/R
 The live version can be found on https://dev.jensbouma.com/beta.<br>
 The newer beta version can be found on https://dev.jensbouma.com/beta2.<br>
 
-# Changes 21-11-2020
+# Changes 23-11-2020
+- Bugfix RTC socket > Better connection changes!
+
+# Changes 21-11-2020 (Actual version)
 - RX status per user stays on while transmitting
 - Freq. and Squawk switch now stays highlighted longer
 - Rows can be cliked for useroptions: Temporaly hide user, Delete user from database and make a note attached to a user.
