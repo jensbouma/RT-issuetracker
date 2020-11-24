@@ -9,10 +9,13 @@ Submit new issues about the beta version <a href="https://github.com/jensbouma/R
 The live version can be found on https://dev.jensbouma.com/beta.<br>
 The newer beta version can be found on https://dev.jensbouma.com/beta2.<br>
 
-# Changes 23-11-2020
-- Bugfix RTC socket > Better connection changes!
+# Changes 23-11-2020 (Actual version)
+- Bugfix RTC socket > Better connection stability.
+- Connection status indicators in userlist and trainerpanel.
+- Mic = audio to other station, Speaker = Audio from other station, Plane = Data connection. Green = Established Red = No connection
+- RX status trainerspannel goes off 1s after transmitting.
 
-# Changes 21-11-2020 (Actual version)
+# 21-11-2020 
 - RX status per user stays on while transmitting
 - Freq. and Squawk switch now stays highlighted longer
 - Rows can be cliked for useroptions: Temporaly hide user, Delete user from database and make a note attached to a user.
