@@ -9,11 +9,18 @@ Submit new issues about the beta version <a href="https://github.com/jensbouma/R
 The live version can be found on https://dev.jensbouma.com/beta.<br>
 The newer beta version can be found on https://dev.jensbouma.com/beta2.<br>
 
-# Changes 23-11-2020 (Actual version)
+# Changes 25-11-2020 (Actual version)
+- Better signaling and status light indicators for trainer and users.
+- Data channel gets initalised directy on load.
+- WebRTC gets initalised after starting audio.
+- Stream gets requested now by connecting party.
+- Delay on giving stream after channel opening (iOS audio problem fix?).
+
+# 23-11-2020
 - Bugfix RTC socket > Better connection stability.
 - Connection status indicators in userlist and trainerpanel.
 - Mic = audio to other station, Speaker = Audio from other station, Plane = Data connection. Green = Established Red = No connection
-- RX status trainerspannel goes off 1s after transmitting.
+- RX status trainerspannel goes off 0,5s after transmitting.
 
 # 21-11-2020 
 - RX status per user stays on while transmitting
