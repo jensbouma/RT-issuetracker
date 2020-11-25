@@ -6,9 +6,6 @@ This public repository is intended to keep track of bugs and issues for the RT a
 <a href="https://github.com/jensbouma/RT-issuetracker/issues" target="_blank">Here</a> you can find know issues.<br>
 Submit new issues about the beta version <a href="https://github.com/jensbouma/RT-issuetracker/issues/new" target="_blank">here</a>.
 
-The live version can be found on https://dev.jensbouma.com/beta.<br>
-The newer beta version can be found on https://dev.jensbouma.com/beta2.<br>
-
 # Changes 25-11-2020 (Actual version)
 - Better signaling and status light indicators for trainer and users.
 - Data channel gets initalised directy on load.
