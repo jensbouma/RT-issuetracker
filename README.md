@@ -14,6 +14,7 @@ Submit new issues about the beta version <a href="https://github.com/jensbouma/R
 - Delay on giving stream after channel opening (iOS audio problem fix?).
 - Better logging
 - RX end delay removed as it breaks more than it fixes
+- Automaticly retry to connect if data channel is open
 
 # 23-11-2020
 - Bugfix RTC socket > Better connection stability.
