@@ -5,8 +5,13 @@ This public repository is intended to keep track of bugs and issues for the RT a
 
 <a href="https://github.com/jensbouma/RT-issuetracker/issues" target="_blank">Here</a> you can find know issues.<br>
 Submit new issues about the beta version <a href="https://github.com/jensbouma/RT-issuetracker/issues/new" target="_blank">here</a>.
+# Changes 14-12-2020 (Actual version)
+- Trainer can now request videocamera from the student for exams.
+- 'Request video' is availible when audio is connected, and by clicking on the user-row.
+- Student gets a pop-up to accept the video request.
+- when accepted a dragable and scalable videoelement opens on trainer panel.
 
-# Changes 26-11-2020 (Actual version)
+# Changes 26-11-2020
 - Better signaling and status light indicators for trainer and users.
 - Data channel gets initalised directy on load.
 - WebRTC gets initalised after starting audio.
