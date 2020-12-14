@@ -11,7 +11,7 @@ Submit new issues about the beta version <a href="https://github.com/jensbouma/R
 - Student gets a pop-up to accept the video request.
 - when accepted by the student a dragable and scalable (right border) videoelement opens on trainer panel.
 
-# Changes 26-11-2020
+# 26-11-2020
 - Better signaling and status light indicators for trainer and users.
 - Data channel gets initalised directy on load.
 - WebRTC gets initalised after starting audio.
