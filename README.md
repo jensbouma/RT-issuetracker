@@ -7,9 +7,9 @@ This public repository is intended to keep track of bugs and issues for the RT a
 Submit new issues about the beta version <a href="https://github.com/jensbouma/RT-issuetracker/issues/new" target="_blank">here</a>.
 # Changes 14-12-2020 (Actual version)
 - Trainer can now request videocamera from the student for exams.
-- 'Request video' is availible when audio is connected, and by clicking on the user-row.
+- The 'Request video' button is hidden until audio is connected and can be found by clicking the user-row.
 - Student gets a pop-up to accept the video request.
-- when accepted a dragable and scalable videoelement opens on trainer panel.
+- when accepted by the student a dragable and scalable (right border) videoelement opens on trainer panel.
 
 # Changes 26-11-2020
 - Better signaling and status light indicators for trainer and users.
