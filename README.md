@@ -5,7 +5,14 @@ This public repository is intended to keep track of bugs and issues for the RT a
 
 <a href="https://github.com/jensbouma/RT-issuetracker/issues" target="_blank">Here</a> you can find know issues.<br>
 Submit new issues about the beta version <a href="https://github.com/jensbouma/RT-issuetracker/issues/new" target="_blank">here</a>.
-# Changes 14-12-2020 (Actual version)
+# Changes 16-12-2020 (Actual version)
+- Better count for connected stations.
+- Improvements for video request from trainer pannel.
+- Windows closes autoomaticly after request.
+- Button only shows when video not connected yet.
+- Removing videoelement when client disconnects.
+
+# 14-12-2020
 - Trainer can now request videocamera from the student for exams.
 - The 'Request video' button is hidden until audio is connected and can be found by clicking the user-row.
 - Student gets a pop-up to accept the video request.
