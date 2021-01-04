@@ -5,6 +5,15 @@ This public repository is intended to keep track of bugs and issues for the RT a
 
 <a href="https://github.com/jensbouma/RT-issuetracker/issues" target="_blank">Here</a> you can find know issues.<br>
 Submit new issues about the beta version <a href="https://github.com/jensbouma/RT-issuetracker/issues/new" target="_blank">here</a>.
+# Changes 3-1-2021
+- Loading Userdetails from moodleAPI now
+- Groupselector when user is in multiple groups
+- Default registration for first login
+- Only login from moodle (no manual login anymore)
+- Videoresolution limited to 640*360 with 20 frames/s
+- Fancier inputboxes.
+
+
 # Changes 16-12-2020 (Actual version)
 - Better count for connected stations.
 - Improvements for video request from trainer pannel.
