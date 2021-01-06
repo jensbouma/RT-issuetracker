@@ -5,7 +5,18 @@ This public repository is intended to keep track of bugs and issues for the RT a
 
 <a href="https://github.com/jensbouma/RT-issuetracker/issues" target="_blank">Here</a> you can find know issues.<br>
 Submit new issues about the beta version <a href="https://github.com/jensbouma/RT-issuetracker/issues/new" target="_blank">here</a>.
-# Changes 3-1-2021
+# Changes 6-1-2021 (Actual version)
+- Double login detection and automatic disconnect on first device.
+- better connection making, automatic reconnect after connection drop and try loop when connection is not working in the first time.
+
+# Changes 5-1-2021
+- Removed clubname in statusbar
+- Force student login with url add-on
+- Small layout updates
+- Connected usercounter much better
+- Entering registration isnt a loop anymore
+
+# Changes 4-1-2021
 - Loading Userdetails from moodleAPI now
 - Groupselector when user is in multiple groups
 - Default registration for first login
@@ -14,7 +25,7 @@ Submit new issues about the beta version <a href="https://github.com/jensbouma/R
 - Fancier inputboxes.
 
 
-# Changes 16-12-2020 (Actual version)
+# Changes 16-12-2020 
 - Better count for connected stations.
 - Improvements for video request from trainer pannel.
 - Windows closes autoomaticly after request.
